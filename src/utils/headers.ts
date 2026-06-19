@@ -15,7 +15,7 @@ export const OAUTH_CONFIG = {
   redirectUri: "http://localhost:3000/oauth-callback"
 };
 
-const ANTIGRAVITY_VERSION = "1.15.8";
+const ANTIGRAVITY_VERSION = "2.0.1";
 
 const PLATFORMS = ["darwin/x64", "darwin/arm64"] as const;
 
